@@ -1,0 +1,26 @@
+[
+  {
+    "firstname": "Arron",
+    "lastname": "Guard",
+    "totalprice": 150,
+    "depositpaid": true,
+    "checkin": "2018-01-01",
+    "checkout": "2019-01-01"
+  },
+  {
+    "firstname": "Bee",
+    "lastname": "Right",
+    "totalprice": 150,
+    "depositpaid": true,
+    "checkin": "2018-01-01",
+    "checkout": "2018-05-20"
+  },
+  {
+    "firstname": "Good",
+    "lastname": "Greg",
+    "totalprice": 75,
+    "depositpaid": false,
+    "checkin": "2018-01-01",
+    "checkout": "2019-01-01"
+  }
+]
